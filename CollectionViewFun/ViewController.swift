@@ -37,5 +37,6 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         cell.backgroundColor = UIColor.getRandomColor()
         return cell
     }
+    
 }
 
